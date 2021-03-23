@@ -2,6 +2,6 @@
 
 Sr.No | Project Name | Live Demo
 ------|--------------|----------
-1 | Expanding cards |[Live Demo](https://expanding-cardsss.netlify.app)
-2 | progress |[Live Demo]()
+1 | Expanding Cards |[Live Demo](https://expanding-cardsss.netlify.app)
+2 | Progress Steps |[Live Demo](https://progress-steps-page.netlify.app/)
   
