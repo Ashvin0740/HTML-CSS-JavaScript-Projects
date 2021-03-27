@@ -7,7 +7,7 @@ Sr.No | Project Name | Live Demo
 3 | Rotating navigation |[Live Demo](https://rotating-navbar-article.netlify.app/)
 4 |  Hidden Search |[Live Demo](https://hidden-search-section.netlify.app/)
 5 |  Hidden Search |[Live Demo](https://hidden-search-section.netlify.app/)
-6 |  Hidden Search |[Live Demo](https://hidden-search-section.netlify.app/)
+6 |  Scroll Animatation |[Live Demo](https://scroll-animatation.netlify.app/)
 
 
   
