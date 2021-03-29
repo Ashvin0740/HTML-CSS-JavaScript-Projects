@@ -6,6 +6,8 @@ Sr.No | Project Name | Live Demo
 2 | Progress Steps |[Live Demo](https://progress-steps-page.netlify.app/)
 3 | Rotating navigation |[Live Demo](https://rotating-navbar-article.netlify.app/)
 4 |  Hidden Search |[Live Demo](https://hidden-search-section.netlify.app/)
+5 |  Image Loading |[Live Demo](https://imagr-lodaing.netlify.app/)
+6 |  Scroll Animatation |[Live Demo](https://scroll-animatation.netlify.app/)
 
 
   
