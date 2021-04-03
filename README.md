@@ -11,5 +11,5 @@ Sr.No | Project Name | Live Demo
 7 |  Split landing page |[Live Demo](https://feture-selection-page.netlify.app/)
 8 |  Wave login page |[Live Demo](https://wave-login-page.netlify.app/)
 9 |  Sound Board |[Live Demo](https://sound-board-player.netlify.app/)
+10 |  Auto joke gunerator|[Live Demo](https://auto-joke-generator.netlify.app/)
 
-  
