@@ -12,4 +12,5 @@ Sr.No | Project Name | Live Demo
 8 |  Wave login page |[Live Demo](https://wave-login-page.netlify.app/)
 9 |  Sound Board |[Live Demo](https://sound-board-player.netlify.app/)
 10 |  Auto joke gunerator|[Live Demo](https://auto-joke-generator.netlify.app/)
-
+11 | Event Keycodes |[Live Demo](https://event-keycode-gunretor.netlify.app/)
+12 | Faq Collapse |[Live Demo](https://faq-collapse-faq.netlify.app/)
