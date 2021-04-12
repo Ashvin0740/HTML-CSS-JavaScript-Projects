@@ -16,5 +16,7 @@ Sr.No | Project Name | Live Demo
 12 | Faq Collapse |[Live Demo](https://faq-collapse-faq.netlify.app/)
 13 | Random Choice Picker |[Live Demo](https://random-choice-picker1.netlify.app)
 14 | Animated Navigation Bar |[Live Demo](https://animated-navigation-bar.netlify.app)
+15 | Incrementing Counter |[Live Demo](https://animated-navigation-bar.netlify.app)
+16 | Drink Water |[Live Demo](https://animated-navigation-bar.netlify.app)
 
 
