@@ -18,5 +18,7 @@ Sr.No | Project Name | Live Demo
 14 | Animated Navigation Bar |[Live Demo](https://animated-navigation-bar.netlify.app)
 15 | Incrementing Counter |[Live Demo](https://incrementing-counter-1.netlify.app/)
 16 | Drink Water |[Live Demo](https://drink-water-day.netlify.app/)
+17 | Movie App |[Live Demo](https://movie-app-pro.netlify.app/)
+
 
 
