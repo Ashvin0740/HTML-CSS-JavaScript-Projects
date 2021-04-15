@@ -19,6 +19,10 @@ Sr.No | Project Name | Live Demo
 15 | Incrementing Counter |[Live Demo](https://incrementing-counter-1.netlify.app/)
 16 | Drink Water |[Live Demo](https://drink-water-day.netlify.app/)
 17 | Movie App |[Live Demo](https://movie-app-pro.netlify.app/)
+18 | Movie App |[Live Demo](https://movie-app-pro.netlify.app/)
+
+19 | Movie App |[Live Demo](https://movie-app-pro.netlify.app/)
+
 
 
 
