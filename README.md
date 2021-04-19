@@ -24,6 +24,8 @@ Sr.No | Project Name | Live Demo
 20 | Button Ripple Effect |[Live Demo](https://button-ripple-effect1.netlify.app/)
 21 | Drag N Drop |[Live Demo](https://drag-and-drop-4.netlify.app/)
 22 | Drawing App |[Live Demo](https://drawing-app-slider.netlify.app/)
+22 | Kinetic Loading page |[Live Demo](https://loading-effect.netlify.app/)
+
 
 
 
