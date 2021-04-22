@@ -26,6 +26,7 @@ Sr.No | Project Name | Live Demo
 22 | Drawing App |[Live Demo](https://drawing-app-slider.netlify.app/)
 23 | Kinetic Loading page |[Live Demo](https://loading-effect.netlify.app/)
 24 | Content Placeholder |[Live Demo](https://content-placeholder-1.netlify.app/)
+25 | Sticky Navbar |[Live Demo](https://sticky-navigation-bar.netlify.app)
 
 
 
