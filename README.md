@@ -29,8 +29,8 @@ Sr.No | Project Name | Live Demo
 25 | Sticky Navbar |[Live Demo](https://sticky-navigation-bar.netlify.app)
 26 | 	Double Vertical Slider |[Live Demo](https://double-vertical-slider-0.netlify.app/)
 27 | Toast Notification |[Live Demo](https://toast-notification-0.netlify.app/)
-28 | Github Profiles |[Live Demo](https://toast-notification-0.netlify.app/)
-29 | Double Click Heart |[Live Demo](https://toast-notification-0.netlify.app/)
+28 | Github Profiles |[Live Demo](https://github-user-find-profile.netlify.app/)
+29 | Like image Effect |[Live Demo](https://like-image-effect.netlify.app/)
 
 
 
