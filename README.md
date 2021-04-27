@@ -31,6 +31,8 @@ Sr.No | Project Name | Live Demo
 27 | Toast Notification |[Live Demo](https://toast-notification-0.netlify.app/)
 28 | Github Profiles |[Live Demo](https://github-user-find-profile.netlify.app/)
 29 | Like image Effect |[Live Demo](https://like-image-effect.netlify.app/)
+30 | Auto Text Effect |[Live Demo](https://auto-text-effect-a.netlify.app/)
+
 
 
 
