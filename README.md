@@ -32,6 +32,7 @@ Sr.No | Project Name | Live Demo
 28 | Github Profiles |[Live Demo](https://github-user-find-profile.netlify.app/)
 29 | Like image Effect |[Live Demo](https://like-image-effect.netlify.app/)
 30 | Auto Text Effect |[Live Demo](https://auto-text-effect-a.netlify.app/)
+31 | Password Generator |[Live Demo](https://password-generator-a.netlify.app/)
 
 
 
