@@ -34,7 +34,7 @@ Sr.No | Project Name | Live Demo
 30 | Auto Text Effect |[Live Demo](https://auto-text-effect-a.netlify.app/)
 31 | Password Generator |[Live Demo](https://password-generator-a.netlify.app/)
 32 | Good cheap Fast|[Live Demo](https://good-cheap-fast-selector.netlify.app/)
-
+33 | Note App|[Live Demo](https://note-app-a.netlify.app/)
 
 
 
