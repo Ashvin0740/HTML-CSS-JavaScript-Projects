@@ -36,6 +36,8 @@ Sr.No | Project Name | Live Demo
 32 | Good cheap Fast|[Live Demo](https://good-cheap-fast-selector.netlify.app/)
 33 | Note App|[Live Demo](https://note-app-a.netlify.app/)
 34 | Animated Countdown |[Live Demo](https://animated-countdown-a.netlify.app/)
+35 | Image Carousel |[Live Demo](https://image-carousel-a.netlify.app/)
+
 
 
 
