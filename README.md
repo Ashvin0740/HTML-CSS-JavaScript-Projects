@@ -38,6 +38,7 @@ Sr.No | Project Name | Live Demo
 34 | Animated Countdown |[Live Demo](https://animated-countdown-a.netlify.app/)
 35 | Image Carousel |[Live Demo](https://image-carousel-a.netlify.app/)
 36 | Hoverboard |[Live Demo](https://hover-board-a.netlify.app/)
+37 | 	Pokedex |[Live Demo](https://pokedex-a.netlify.app/)
 
 
 
