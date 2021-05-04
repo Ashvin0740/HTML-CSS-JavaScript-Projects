@@ -37,8 +37,7 @@ Sr.No | Project Name | Live Demo
 33 | Note App|[Live Demo](https://note-app-a.netlify.app/)
 34 | Animated Countdown |[Live Demo](https://animated-countdown-a.netlify.app/)
 35 | Image Carousel |[Live Demo](https://image-carousel-a.netlify.app/)
-
-
+36 | Hoverboard |[Live Demo](https://hover-board-a.netlify.app/)
 
 
 
