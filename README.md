@@ -43,6 +43,8 @@ Sr.No | Project Name | Live Demo
 39 | 	Password Strength Background |[Live Demo](https://passwor-strength-background-a.netlify.app/)
 40 | 	3d Background Boxes |[Live Demo](https://3d-background-boxes-a.netlify.app/)
 41 | Verify Account Ui |[Live Demo](https://verify-account-ui-a.netlify.app/)
+42 | Live User Filter |[Live Demo](https://live-user-filter-a.netlify.app/)
+
 
 
 
