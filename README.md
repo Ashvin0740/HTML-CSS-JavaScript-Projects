@@ -45,7 +45,7 @@ Sr.No | Project Name | Live Demo
 41 | Verify Account Ui |[Live Demo](https://verify-account-ui-a.netlify.app/)
 42 | Live User Filter |[Live Demo](https://live-user-filter-a.netlify.app/)
 43 | Feedback Ui Design | [Live Demo](https://feedback-ui-design-a.netlify.app/)
-
+44 | Custom Range Slider | [Live Demo](https://custom-range-slider-a.netlify.app/)
 
 
 
