@@ -47,7 +47,7 @@ Sr.No | Project Name | Live Demo
 43 | Feedback Ui Design | [Live Demo](https://feedback-ui-design-a.netlify.app/)
 44 | Custom Range Slider | [Live Demo](https://custom-range-slider-a.netlify.app/)
 45 | Netflix Mobile Navigation | [Live Demo](https://netflix-mobile-navigation-a.netlify.app/)
-
+46 | Quiz App | [Live Demo](https://quiz-app-a.netlify.app/)
 
 
 
