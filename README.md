@@ -48,6 +48,7 @@ Sr.No | Project Name | Live Demo
 44 | Custom Range Slider | [Live Demo](https://custom-range-slider-a.netlify.app/)
 45 | Netflix Mobile Navigation | [Live Demo](https://netflix-mobile-navigation-a.netlify.app/)
 46 | Quiz App | [Live Demo](https://quiz-app-a.netlify.app/)
+47 | Testimonial Box Switcher |	[Live Demo](https://testimonial-box-switcher-a.netlify.app/)
 
 
 
